@@ -5,6 +5,10 @@
 | Name | SRN |
 |------|-----|
 | Parth Kale | PES1UG24AM184 |
+<<<<<<< HEAD
+=======
+| Roshan C | PES1UG24AM230 |
+>>>>>>> f67ef6e (fixed Screenshot errors)
 ---
 
 ## 2. Build, Load, and Run Instructions
@@ -213,25 +217,25 @@ Two cpu_hog containers launched simultaneously:
 ## Screenshots
 
 ### 1. Multi-container supervision
-![multi-container](screenshots/01-multi-container.png)
+![multi-container](screenshots/1.png)
 
 ### 2. Metadata tracking
-![ps-metadata](screenshots/02-ps-metadata.png)
+![ps-metadata](screenshots/2.png)
 
 ### 3. Bounded-buffer logging
-![logging](screenshots/03-logging.png)
+![logging](screenshots/3.png)
 
 ### 4. CLI and IPC
-![cli-ipc](screenshots/04-cli-ipc.png)
+![cli-ipc](screenshots/4.png)
 
 ### 5. Soft-limit warning
-![soft-limit](screenshots/05-soft-limit.png)
+![soft-limit](screenshots/5.png)
 
 ### 6. Hard-limit enforcement
-![hard-limit](screenshots/06-hard-limit.png)
+![hard-limit](screenshots/6.png)
 
 ### 7. Scheduling experiment
-![scheduling](screenshots/07-scheduling.png)
+![scheduling](screenshots/7.png)
 
 ### 8. Clean teardown
-![teardown](screenshots/08-teardown.png)
+![teardown](screenshots/8.png)
